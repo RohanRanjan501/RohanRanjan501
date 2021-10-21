@@ -39,7 +39,7 @@ I am Rohan Ranjan
 <li>I am working on building my online presence and doing my bit to spread knowledge.I possess excellent interpersonal skills accompanied with the ability to relate effectively to multitude of individuals on all levels of intellect</li>
 </ul>
     
-    
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=rohanranjan501&show_icons=true&theme=nord)
     
     
     
