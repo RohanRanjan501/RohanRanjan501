@@ -33,7 +33,7 @@ I am Rohan Ranjan
     
     
  <ul>
-<li>My primary coding language: C++</li>
+<li>My primary coding language: Java</li>
 <li>Earned Gold badge &amp; 6 star at HackerRank in C++,Java programming and Data Structures and Algorithm.</li>
 <li>Passionate for learning &amp; exploring new Tech.  </li>
 <li>I am working on building my online presence and doing my bit to spread knowledge.I possess excellent interpersonal skills accompanied with the ability to relate effectively to multitude of individuals on all levels of intellect</li>
